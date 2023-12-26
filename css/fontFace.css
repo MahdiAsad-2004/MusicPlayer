@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Vazir;
+    src: url('fonts/IranYekan/Yekan.eot'),
+        url('fonts/IranYekan/Yekan.woff') format('woff'),
+        url('fonts/IranYekan/Yekan.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: FeelingSoon;
+    src: url(fonts/fFeelingSoon.ttf);
+}
+
+@font-face {
+    font-family: Heran;
+    src: url(fonts/Heran.otf),
+        url(fonts/Heran.ttf);
+}
+
+@font-face {
+    font-family: October;
+    src: url(fonts/October\ Night.otf),
+        url(fonts/October\ Night.ttf);
+}
+
+@font-face {
+    font-family: Santos;
+    src: url(fonts/Santos.otf),
+        url(fonts/Santos.ttf);
+}
+
+@font-face {
+    font-family: Planner;
+    src: url(fonts/WEEKLY\ PLANNER\ .otf);
+}
